@@ -25,9 +25,9 @@ description      |영상 설명
 
 ### 스마트폰 출시 전후 영상의 조회수 증가율 파악
 갤럭시 모델을 기준으로 전후 영상의 조회수 증가율 차이를 확인하였다. 
+![스마트폰 증가율 비교](https://github.com/lasentia/YouTube-Trend-Analysis-Project/assets/128382645/972209f1-d1a8-452a-868d-88537a3f5bb3)
 
 결과는 출시 전 영상의 조회수 증가율이 높은 것을 볼 수 있었다. 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a9ebd444-1fd4-4b77-9880-a2c626d27d6b/41f5abb6-0b47-4e9d-94f1-dcb846ce423b/Untitled.png)
 
 
 
